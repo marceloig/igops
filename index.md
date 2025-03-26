@@ -1,4 +1,4 @@
 ---
-title: Desenvolvimento e Arquitetura com uma pitada de DevOps
+title: IgOps
 ---
 
